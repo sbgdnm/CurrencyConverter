@@ -1,16 +1,14 @@
-# currency_converter
+## Конвертор валют
+Приложение для конвертации валют.Оно использует API сервиса CurrencyLayer для получения актуальных курсов валют. 
+Пользователь может выбирать валюты из списка, вводить сумму для конвертации и получать результат в реальном времени.
 
-An app that converts one currency to another.
+## Ключевые особенности
+Простое и интуитивное пользовательское интерфейс.
+Конвертация между основными мировыми валютами, включая USD, EUR, GBP, JPY, KZT,RUB и др.
+Получение актуальных данных о курсах валют через API.
+Реализация HTTP-запросов с обработкой ошибок.
 
-## Getting Started
+## Демонстрация работы приложения
+![Демонстрация приложения](demo.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
